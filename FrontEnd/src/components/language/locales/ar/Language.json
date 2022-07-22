@@ -1,0 +1,16 @@
+{
+    "connexion": {
+        "auth_title": "المصادقة",
+        "username": "إسم المستخدم",
+        "password": "كلمة السر",
+        "error": {
+            "username": "الرجاء إدخال اسم المستخدم!",
+            "password": "كلمة السر"
+        },
+        "passwordForget": "نسيت رقمك السري",
+        "btnConnect": "يتصل",
+        "newCompte": "إفتح حساب"
+    },
+    "title-home": "ترحيب",
+    "title-profil": "الملف الشخصي"
+}

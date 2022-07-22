@@ -1,0 +1,29 @@
+{
+    "connexion": {
+        "auth_title": "S'authentifier",
+        "username": "Nom d'utilisateur",
+        "password": "Mot de passe",
+        "error": {
+            "username": "Veuillez entrer votre nom d'utilisateur!",
+            "password": "Mot de passe"
+        },
+        "passwordForget": "Mot de passe oublié",
+        "btnConnect": "Se connecter",
+        "newCompte": "Créer un compte"
+    },
+    "title-home": "Accueil",
+    "title-profil": "Profil",
+    "profile-overview": "Aperçu",
+    "profile-edit": "Modifier Profil",
+    "profile-change-password": "Changer Mot de passe",
+    "firstName": "Nom",
+    "lastName": "Prénom",
+    "role": "Fonction",
+    "admin": "Administrateur",
+    "user": "Utilisateur",
+    "email": "Email",
+    "btn-save": "Enregistrer",
+    "current-password": "Mot de passe actuel",
+    "new-password": "Nouveau Mot de passe",
+    "confirm-password": "Confirme Mot de passe"
+}

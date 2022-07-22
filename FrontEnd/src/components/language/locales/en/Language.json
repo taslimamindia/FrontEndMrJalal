@@ -1,0 +1,14 @@
+{
+    "connexion": {
+        "auth_title": "Login",
+        "username": "Nom d'utilisateur",
+        "password": "Mot de passe",
+        "error": {
+            "username": "Veuillez entrer votre nom d'utilisateur!",
+            "password": "Mot de passe"
+        },
+        "passwordForget": "Mot de passe oublié",
+        "btnConnect": "Se connecter",
+        "newCompte": "Créer un compte"
+    }
+}
